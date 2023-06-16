@@ -5,7 +5,7 @@ import PackageDescription
 
 let version = "1.0.0"
 let moduleName = "Backstage24i"
-let checksum = "8f42f67a0665798e1c4e149c73a36fb9dddc062bc90e3b4e077ea571613ddda1"
+let checksum = ""
 
 let package = Package(
     name: moduleName,
